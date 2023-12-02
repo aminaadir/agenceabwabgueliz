@@ -1,0 +1,10 @@
+.small-box .icon > i.fa, .small-box .icon > i.fab, .small-box .icon > i.fad, .small-box .icon > i.fal, .small-box .icon > i.far, .small-box .icon > i.fas, .small-box .icon > i.ion {
+    font-size: 40px !important;
+}
+.required {
+    color : #ff0000;
+}
+.a-partir-prix{
+    font-size: 17px ;
+    color: #000;
+}
